@@ -1,0 +1,39 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Menu.CreateMenuModel
+@{
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/createPresta.css">
+    <title>CreatePrestation</title>
+</head>
+@if (Model.errorMesssage.Length > 0)
+{
+    <p class="text-danger">@Model.errorMesssage</p>
+}
+<form method="post">
+    <div class="row1">
+        <label for="titre">Titre Menu </label>
+        <input type="Text" name="titre"></input>
+	</div>
+    <div class="row3">
+		<label for="Planning" id="lbl1">tarif Menu </label>
+		<input type="Text" name="tarif"></input>
+	</div>
+    <div class="row4">
+		<label for="photo">Photo Menu </label>
+		<input type="file" name="photo" id="pht"></input>
+	</div>
+@*    <div class="row2">
+        <label for="tarif">Date Menu </label>
+        <input type="text" name="date"></input>
+    </div>*@
+    <button type="submit">Envoyer</button>
+    @if (Model.successMessage.Length > 0)
+    {
+        <p class="text-success">@Model.successMessage</p>
+    }
+</form>

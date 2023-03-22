@@ -1,0 +1,35 @@
+﻿@page
+@model Heron_Cendre.Pages.View.restaurantModel
+@{
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Restaurant</title>
+    <link rel="stylesheet" href="~/css/rst.css" />
+</head>
+    <div class="img1"></div>
+    <div class="img2"></div>
+    <div class="opa"></div>
+    <nav class="navbar">
+        <ul>
+        <li><a class="linav" asp-page="propos" target="_blank">A Propos</a></li>
+            <li><a class="linav" asp-page="evenement" target="_blank">Evènement</a></li>
+            <li id="H">Restaurant</li>
+            <li><a class="linav" href="#" target="_blank">Prestation</a></li>
+        <li><a class="linav" asp-page="../Index" target="_blank">Accueil</a></li>
+        </ul>
+    </nav>
+    <p class="tr">Heron Restau</p>
+    <div class="starmax">
+    <div class="star"></div>
+    <div class="star"></div>
+    <div class="star"></div>
+    <div class="star"></div>
+    <div class="star"></div>
+    </div>
+    <p id="t3">Voulez-vous passer une commande?</p>
+@if(Model.test != null)
+{
+    <div id="btn"><a asp-page="menu" target="_blank">commander</a> </div>
+}

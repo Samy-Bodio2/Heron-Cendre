@@ -1,0 +1,215 @@
+﻿body {
+    height: 100vh;
+    margin: 0;
+    font-family: 'andika';
+}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    background-image: url(../Ressource/putain.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+    li a:hover {
+        text-decoration: underline;
+    }
+
+li {
+    color: white;
+    font-size: 30px;
+    margin: 0 40px;
+    display: inline-block;
+}
+
+ul {
+    text-align: center;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.tit2 {
+    font-size: 60px;
+}
+
+.cercle {
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+    box-shadow: 0 0 1px 10px rgba(255, 255, 255, 0.644);
+    background-image: url(../Ressource/back_32px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: fixed;
+    top: 52%;
+    left: 5%;
+    cursor: pointer;
+}
+
+.cercle2 {
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+    box-shadow: 0 0 1px 10px rgba(255, 255, 255, 0.644);
+    background-image: url(../Ressource/more_than_32px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: fixed;
+    top: 52%;
+    left: 90%;
+    cursor: pointer;
+}
+
+.cercle:hover {
+    box-shadow: 0 0 1px 10px rgb(255, 255, 255);
+}
+
+.cercle2:hover {
+    box-shadow: 0 0 1px 10px rgb(255, 255, 255);
+}
+
+#titre {
+    font-size: 42px;
+    color: white;
+    position: absolute;
+    top: 23%;
+    left: 41%;
+}
+
+.txt {
+    position: absolute;
+    text-align: justify;
+    height: auto;
+    width: 700px;
+    top: 33%;
+    left: 28%;
+}
+
+#var {
+    text-align: justify;
+    color: #f1f1f1;
+    font-size: 30px;
+}
+
+div.tel {
+    height: 48px;
+    width: 48px;
+    background-image: url(../Ressource/phone_48px.png);
+    position: absolute;
+    top: 77%;
+    left: 28%;
+}
+
+    div.tel:hover {
+        animation: tour 1s linear infinite;
+        cursor: pointer;
+    }
+
+p.tel {
+    position: absolute;
+    top: 74%;
+    left: 32%;
+    color: #f1f1f1;
+    font-size: 28px;
+}
+
+div.mail {
+    height: 48px;
+    width: 48px;
+    background-image: url(../Ressource/email_48px.png);
+    position: absolute;
+    top: 77%;
+    left: 48%;
+}
+
+p.mail {
+    position: absolute;
+    top: 74%;
+    left: 51.5%;
+    color: #f1f1f1;
+    font-size: 28px;
+}
+
+div.mail:hover {
+    animation: tour 1s linear infinite;
+    cursor: pointer;
+}
+
+.imgB {
+    position: absolute;
+    text-align: center;
+    top: 89%;
+    left: 35%;
+}
+
+.sombre {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.674);
+    position: absolute;
+    top: 0;
+}
+
+.image {
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin: 0 33px;
+}
+
+.imgB div:nth-child(1) {
+    background-image: url(../Ressource/whatsapp_48px.png);
+}
+
+    .imgB div:nth-child(1):hover {
+        animation: tour 1s linear infinite;
+        cursor: pointer;
+    }
+
+.imgB div:nth-child(2) {
+    background-image: url(../Ressource/youtube_play_button_48px.png);
+}
+
+    .imgB div:nth-child(2):hover {
+        animation: tour 1s linear infinite;
+        cursor: pointer;
+    }
+
+.imgB div:nth-child(3) {
+    background-image: url(../Ressource/telegram_app_48px.png);
+}
+
+    .imgB div:nth-child(3):hover {
+        animation: tour 1s linear infinite;
+        cursor: pointer;
+    }
+
+.imgB div:nth-child(4) {
+    background-image: url(../Ressource/facebook_logo_48px.png);
+}
+
+    .imgB div:nth-child(4):hover {
+        animation: tour 1s linear infinite;
+        cursor: pointer;
+    }
+
+@keyframes tour {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

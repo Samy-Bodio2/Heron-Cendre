@@ -1,0 +1,177 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Heron_Cendre
+build_property.RootNamespace = Heron_Cendre
+build_property.ProjectDir = C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/AdminInterface.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcQWRtaW5JbnRlcmZhY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Chambre/CreateChambre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcQ2hhbWJyZVxDcmVhdGVDaGFtYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Chambre/DeleteChambre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcQ2hhbWJyZVxEZWxldGVDaGFtYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Chambre/IndexChambre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcQ2hhbWJyZVxJbmRleENoYW1icmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Chambre/UpdateChambre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcQ2hhbWJyZVxVcGRhdGVDaGFtYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Evenement/CreateEvenement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcRXZlbmVtZW50XENyZWF0ZUV2ZW5lbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Evenement/DeleteEvenement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcRXZlbmVtZW50XERlbGV0ZUV2ZW5lbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Evenement/IndexEvenement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcRXZlbmVtZW50XEluZGV4RXZlbmVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Evenement/UpdateEvenement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcRXZlbmVtZW50XFVwZGF0ZUV2ZW5lbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Menu/CreateMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcTWVudVxDcmVhdGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Menu/DeleteMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcTWVudVxEZWxldGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Menu/IndexMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcTWVudVxJbmRleE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Menu/UpdateMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcTWVudVxVcGRhdGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Prestation/CreatePrestation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcUHJlc3RhdGlvblxDcmVhdGVQcmVzdGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Prestation/DeletePrestation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcUHJlc3RhdGlvblxEZWxldGVQcmVzdGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Prestation/IndexPrestation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcUHJlc3RhdGlvblxJbmRleFByZXN0YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Heron Model/Prestation/UpdatePrestation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb24gTW9kZWxcUHJlc3RhdGlvblxVcGRhdGVQcmVzdGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/CarteInfo/carteChambre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDYXJ0ZUluZm9cY2FydGVDaGFtYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/CarteInfo/carteEven.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDYXJ0ZUluZm9cY2FydGVFdmVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/CarteInfo/cPresta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDYXJ0ZUluZm9cY1ByZXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/CarteInfo/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDYXJ0ZUluZm9cU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/Chambre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDaGFtYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/ConnectAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDb25uZWN0QWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/Connexion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xDb25uZXhpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/evenement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xldmVuZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/inscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xpbnNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/insertClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xpbnNlcnRDbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xtZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/plsConnect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xwbHNDb25uZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/Prestation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xQcmVzdGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/propos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xwcm9wb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/View/restaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1xyZXN0YXVyYW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Test/Vue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFxWdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CLIENT/Desktop/Projet ASP/Heron Cendre/Heron Cendre/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xs7tyyxk9g

@@ -1,0 +1,41 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Chambre.IndexChambreModel
+@{
+	ViewData["Title"] = "Liste des Prestations";
+}
+<head>
+    <link rel="stylesheet" href="~/css/TablePresta.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css//site.css" />
+</head>
+<h1>Listes des Chambres</h1>
+
+<br />
+<a class="btn btn-primary" asp-page="CreateChambre">Nouvelle Chambre</a>
+<br />
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Tarif_Chambre</th>
+                <th>Img</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var chambre in Model.Chambres)
+            {
+                <tr>
+                    <td>@chambre.id_chambre</td>
+                    <td>@chambre.tarif_chambre</td>
+                    <td>@chambre.photo_chambre</td>
+                    <td>
+                        <a class="btn btn-primary" href="UpdateChambre?Id=@chambre.id_chambre">Modifier</a>
+                        <a class="btn btn-danger" href="DeleteChambre?Id=@chambre.id_chambre">Supprimer</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

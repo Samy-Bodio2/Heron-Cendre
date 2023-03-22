@@ -1,0 +1,46 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Evenement.IndexEvenementModel
+@{
+	ViewData["Title"] = "Liste des evenements";
+}
+<head>
+    <link rel="stylesheet" href="~/css/TablePresta.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css//site.css" />
+</head>
+<h1>Listes des evenements</h1>
+
+<br />
+<a class="btn btn-primary" asp-page="CreateEvenement">Nouvelle evenement</a>
+<br />
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <th>Id</th>
+            <th>Theme</th>
+            <th>date_debut_even</th>
+            <th>fin_debut_even</th>
+            <th>tarif_evenement</th>
+            <th>Img</th>
+            <th>Boutton</th>
+        </thead>
+        <tbody>
+            @foreach(var even in Model.Events)
+            {
+                <tr>
+                    <td>@even.id_evenement</td>
+                    <td>@even.theme</td>
+                    <td>@even.date_debut_even</td>
+                    <td>@even.fin_debut_even</td>
+                    <td>@even.tarif_evenement</td>
+                    <td>@even.photo_even</td>
+                    <td>
+                        <a class="btn btn-primary" href="UpdateEvenement?Id=@even.id_evenement">Modifier</a>
+                        <a class="btn btn-danger" href="DeleteEvenement?Id=@even.id_evenement">Supprimer</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

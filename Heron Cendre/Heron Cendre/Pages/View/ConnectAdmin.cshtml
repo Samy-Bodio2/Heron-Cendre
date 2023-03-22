@@ -1,0 +1,32 @@
+﻿@page
+@model Heron_Cendre.Pages.View.ConnectAdminModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css//site.css" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/createPresta.css">
+    <title>Document</title>
+</head>
+<form method="post">
+    <div class="row1 form-group">
+        <label for="nom">Nom Admin </label>
+        <input type="Text" name="nom"></input>
+    </div>
+    <div class="row2 form-group">
+        <label for="pwd">Mot de Passe </label>
+        <input type="password" name="pwd"></input>
+    </div>
+    @if (Model.errorMesssage.Length > 0)
+    {
+        <p class="text-danger">@Model.errorMesssage</p>
+    }
+    @if (Model.successMessage.Length > 0)
+    {
+        <p class="text-success">@Model.successMessage</p>
+    }
+    <button class="btn-link" type="submit">Envoyer</button>
+</form>

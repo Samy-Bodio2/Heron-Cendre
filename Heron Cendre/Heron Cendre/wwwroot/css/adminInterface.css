@@ -1,0 +1,22 @@
+button{
+    width: 15%;
+    height: 50px;
+    border:1px solid red;
+    display: inline-block;
+    margin: 20px;
+    margin-left: 45%;
+    border-radius: 10px;
+    box-shadow: 2px -2px 2px 1px;
+}
+body{
+    height: 100vh;
+}
+.btn1{
+    margin-top: 30vh;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 150px;
+}

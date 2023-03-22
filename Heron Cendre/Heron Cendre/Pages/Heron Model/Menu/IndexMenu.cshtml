@@ -1,0 +1,45 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Menu.IndexMenuModel
+@{
+	ViewData["Title"] = "Liste de Menu";
+}
+<head>
+    <link rel="stylesheet" href="~/css/TablePresta.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css//site.css" />
+</head>
+<h1>Listes de Menu</h1>
+
+<br />
+<a class="btn btn-primary" asp-page="CreateMenu">Nouveau Menu</a>
+<br />
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Titre_Menu</th>
+                <th>Date Menu</th>
+                <th>Tarif_Menu</th>
+                <th>Img</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var Menu in Model.MENU)
+            {
+                <tr>
+                    <td>@Menu.id_menu</td>
+                    <td>@Menu.titre_menu</td>
+                    <td>@Menu.date_menu</td>
+                    <td>@Menu.tarif_menu</td>
+                    <td>@Menu.photo1_menu</td>
+                    <td>
+                        <a class="btn btn-primary" href="UpdateMenu?Id=@Menu.id_menu">Modifier</a>
+                        <a class="btn btn-danger" href="DeleteMenu?Id=@Menu.id_menu">Supprimer</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

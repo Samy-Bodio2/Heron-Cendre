@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Heron Cendre.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Heron Cendre.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\114058888.jpg",
+      "PackagePath": "staticwebassets\\Images\\114058888.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\263466560.jpg",
+      "PackagePath": "staticwebassets\\Images\\263466560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\277731832.jpg",
+      "PackagePath": "staticwebassets\\Images\\277731832.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\alan-caishan-cU53ZFBr3lk-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\alan-caishan-cU53ZFBr3lk-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\conner-baker-wv4Pu-Jjdbw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\conner-baker-wv4Pu-Jjdbw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\crew-szCvt1gP2d4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\crew-szCvt1gP2d4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\felipe-bustillo-4VDRCoNuvE0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\felipe-bustillo-4VDRCoNuvE0-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\images (1).jfif",
+      "PackagePath": "staticwebassets\\Images\\images (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\images (2).png",
+      "PackagePath": "staticwebassets\\Images\\images (2).png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\images.jfif",
+      "PackagePath": "staticwebassets\\Images\\images.jfif"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\istockphoto-1435253180-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-1435253180-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\istockphoto-1453666122-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-1453666122-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\istockphoto-868408746-1024x1024 (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-868408746-1024x1024 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\mae-mu-I7A_pHLcQK8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\mae-mu-I7A_pHLcQK8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\mae-mu-en4qp-aK1h4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\mae-mu-en4qp-aK1h4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\markus-spiske-g5ZIXjzRGds-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\markus-spiske-g5ZIXjzRGds-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\ralph-ravi-kayden-FqqiAvJejto-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\ralph-ravi-kayden-FqqiAvJejto-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\toa-heftiba-bcLE7reXFLM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\toa-heftiba-bcLE7reXFLM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\téléchargement (1).jfif",
+      "PackagePath": "staticwebassets\\Images\\téléchargement (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Images\\téléchargement (2).jfif",
+      "PackagePath": "staticwebassets\\Images\\téléchargement (2).jfif"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\alan-caishan-cU53ZFBr3lk-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\alan-caishan-cU53ZFBr3lk-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\back_32px.png",
+      "PackagePath": "staticwebassets\\Ressource\\back_32px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\bed_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\bed_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\bedroom_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\bedroom_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\bedroom_48px2.png",
+      "PackagePath": "staticwebassets\\Ressource\\bedroom_48px2.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\christian-wiediger-QnDhG4nNCVQ-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\christian-wiediger-QnDhG4nNCVQ-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\conner-baker-wv4Pu-Jjdbw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\conner-baker-wv4Pu-Jjdbw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\crew-szCvt1gP2d4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\crew-szCvt1gP2d4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\email_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\email_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\engin-akyurt-Z-6q68kg5pg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\engin-akyurt-Z-6q68kg5pg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\facebook_logo_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\facebook_logo_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\felipe-bustillo-4VDRCoNuvE0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\felipe-bustillo-4VDRCoNuvE0-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\fernando-alvarez-rodriguez-M7GddPqJowg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\fernando-alvarez-rodriguez-M7GddPqJowg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\hotel.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\hotel_30px.png",
+      "PackagePath": "staticwebassets\\Ressource\\hotel_30px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\hotel_check_in_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\hotel_check_in_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\hotel_star_32px.png",
+      "PackagePath": "staticwebassets\\Ressource\\hotel_star_32px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\hotel_star_64px.png",
+      "PackagePath": "staticwebassets\\Ressource\\hotel_star_64px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\javier-martinez-hUD0PUczwJQ-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\javier-martinez-hUD0PUczwJQ-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\john-fornander-4R9CcBdQTEg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\john-fornander-4R9CcBdQTEg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\jordan-madrid-yTdb-7MoyvM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\jordan-madrid-yTdb-7MoyvM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\katarzyna-pracuch-mglHaz5PjLg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\katarzyna-pracuch-mglHaz5PjLg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\markus-spiske-g5ZIXjzRGds-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\markus-spiske-g5ZIXjzRGds-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\more_than_32px.png",
+      "PackagePath": "staticwebassets\\Ressource\\more_than_32px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\outdoor_swimming_pool_64px.png",
+      "PackagePath": "staticwebassets\\Ressource\\outdoor_swimming_pool_64px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\pablo-heimplatz-ZODcBkEohk8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\pablo-heimplatz-ZODcBkEohk8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\phone_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\phone_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\poolside_bar_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\poolside_bar_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\product-school-dJICd7b_LlE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\product-school-dJICd7b_LlE-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\putain.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\putain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\ralph-ravi-kayden-FqqiAvJejto-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\ralph-ravi-kayden-FqqiAvJejto-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\sandy-millar-8vaQKYnawHw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\sandy-millar-8vaQKYnawHw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\star_96px.png",
+      "PackagePath": "staticwebassets\\Ressource\\star_96px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\telegram_app_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\telegram_app_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\toa-heftiba-bcLE7reXFLM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Ressource\\toa-heftiba-bcLE7reXFLM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\whatsapp_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\whatsapp_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\Ressource\\youtube_play_button_48px.png",
+      "PackagePath": "staticwebassets\\Ressource\\youtube_play_button_48px.png"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\TablePresta.css",
+      "PackagePath": "staticwebassets\\css\\TablePresta.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\adminInterface.css",
+      "PackagePath": "staticwebassets\\css\\adminInterface.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\chambreCss.css",
+      "PackagePath": "staticwebassets\\css\\chambreCss.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\connectCss.css",
+      "PackagePath": "staticwebassets\\css\\connectCss.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\createPresta.css",
+      "PackagePath": "staticwebassets\\css\\createPresta.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\css.css",
+      "PackagePath": "staticwebassets\\css\\css.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\evenCss.css",
+      "PackagePath": "staticwebassets\\css\\evenCss.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\propoCss.css",
+      "PackagePath": "staticwebassets\\css\\propoCss.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\rst.css",
+      "PackagePath": "staticwebassets\\css\\rst.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\signCss.css",
+      "PackagePath": "staticwebassets\\css\\signCss.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CLIENT\\Desktop\\Projet ASP\\Heron Cendre\\Heron Cendre\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Heron Cendre.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Heron Cendre.props",
+      "PackagePath": "build\\Heron Cendre.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Heron Cendre.props",
+      "PackagePath": "buildMultiTargeting\\Heron Cendre.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Heron Cendre.props",
+      "PackagePath": "buildTransitive\\Heron Cendre.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

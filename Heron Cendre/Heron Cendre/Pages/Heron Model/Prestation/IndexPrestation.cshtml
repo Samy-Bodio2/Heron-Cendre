@@ -1,0 +1,46 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Prestation.IndexPrestationModel
+@{
+    ViewData["Title"] = "Liste des Prestations";
+}
+<head>
+    <link rel="stylesheet" href="~/css/TablePresta.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css//site.css" />
+</head>
+<h1>Listes des Prestations</h1>
+
+<br />
+<a class="btn btn-primary" asp-page="CreatePrestation">Nouvelle Prestation</a>
+<br />
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Titre_Prestation</th>
+                <th>Tarif_Prestation</th>
+                <th>Planing_Prestation</th>
+                <th>Img</th>
+            </tr>
+        </thead>
+        <tbody>
+                @foreach (var Presta in Model.Presta)
+            {
+                <tr>
+                    <td>@Presta.id_prestation</td>
+                    <td>@Presta.titre_prestation</td>
+                    <td>@Presta.tarif_prestation</td>   
+                    <td>@Presta.planing_prestation</td>
+                    <td>@Presta.photo1</td>
+                    <td>
+                        <a class="btn btn-primary" href="UpdatePrestation?Id=@Presta.id_prestation">Modifier</a>
+                        <a class="btn btn-danger" href="DeletePrestation?Id=@Presta.id_prestation">Supprimer</a>
+                    </td>
+                </tr>
+            }   
+        </tbody>
+    </table>
+
+</div>

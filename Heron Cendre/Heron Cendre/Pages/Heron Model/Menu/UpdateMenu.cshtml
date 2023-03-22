@@ -1,0 +1,41 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Menu.UpdateMenuModel
+@{
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+@if (Model.errorMesssage.Length > 0)
+{
+    <p class="text-danger">@Model.errorMesssage</p>
+}
+<form method="post">
+    <div class="row">
+        <input type="hidden" class="form-control" name="Id" value="@Model.Menu.id_menu" />
+        <label class="text-black" for="Title">Title</label>
+        <input class="form-control text-black" type="text" name="Title" value="@Model.Menu.titre_menu" />
+    </div>
+    <div class="row">
+        <label class="text-black" for="tarif">Tarif</label>
+        <input class="form-control text-black" type="text" name="tarif" value="@Model.Menu.tarif_menu" />
+    </div>
+    <br />
+    <div class="row">
+        <label class="text-black" for="tarif">Image</label>
+        <input class="form-control text-black" type="file" name="photo" value="@Model.Menu.photo1_menu" />
+    </div>
+    <br />
+    <div class="row d-flex justify-content-between">
+        <button class="btn btn-primary">Submit</button>
+        <a class="btn btn-outline-primary" asp-page="IndexMenu">Cancel</a>
+    </div>
+    @if (Model.successMessage.Length > 0)
+    {
+        <p class="text-success">@Model.successMessage</p>
+    }
+</form>

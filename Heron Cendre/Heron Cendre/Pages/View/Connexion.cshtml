@@ -1,0 +1,25 @@
+﻿@page
+@model Heron_Cendre.Pages.View.ConnexionModel
+@{
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Heron_Cendre</title>
+    <link rel="stylesheet" href="~/css/connectCss.css" />
+</head>
+<form method="post">
+    <p id="titre">Heron Cendre</p>
+    <a asp-page="inscription" id="a1">Inscription</a>
+    <a id="a2">J'ai deja un compte</a>
+    <hr id="hr1">
+    <hr id="hr2">
+    <p id="creez">Connectez-vous</p>
+    <input type="text" placeholder="Nom Utilisateur" name="login">
+    <input type="password" placeholder="Mot de passe" name="pwd">
+
+    <button>Confirmer</button>
+
+    
+</form>
+<div class="img"></div>

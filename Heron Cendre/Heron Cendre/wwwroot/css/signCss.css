@@ -1,0 +1,96 @@
+﻿body {
+    font-family: 'andika';
+    font-size: 40px;
+    margin: 0;
+    color: rgb(0, 34, 255);
+    overflow: hidden;
+    height: 100vh;
+}
+
+input {
+    display: block;
+}
+
+form {
+    position: absolute;
+    width: 50%;
+    top: 0px;
+    margin-top: 0;
+    /* height: 99vh; */
+}
+
+#hr1 {
+    display: inline-block;
+    width: 30%;
+    margin-left: 200px;
+    margin-top: 0;
+    height: 2px;
+    background: rgb(0, 34, 255);
+    transform: translate(-80px,-25px);
+}
+
+#hr2 {
+    display: inline-block;
+    margin-top: 0;
+    width: 38%;
+    margin-left: 0;
+    margin-top: 0;
+    transform: translate(-92px,-26px);
+}
+
+.img {
+    position: absolute;
+    width: 50%;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    background-image: url(../Ressource/markus-spiske-g5ZIXjzRGds-unsplash.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+#titre {
+    transform: translate(270px,0);
+    font-weight: bold;
+}
+
+a {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 210px;
+    text-decoration: none;
+    color: rgb(0, 34, 255);
+}
+
+#a2 {
+    margin-left: 100px;
+}
+
+#creez {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    transform: translate(32%,-70px);
+}
+
+input {
+    margin-left: 290px;
+    border: 2px solid rgb(0, 34, 255);
+    transform: translate(-140px,-80px);
+    margin-bottom: 40px;
+    width: 60%;
+    height: 40px;
+    border-radius: 8px;
+}
+
+button {
+    transform: translate(155px,-100px);
+    background-color: rgb(0, 34, 255);
+    border: none;
+    color: white;
+    width: 60%;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'andika';
+    border-radius: 8px;
+}

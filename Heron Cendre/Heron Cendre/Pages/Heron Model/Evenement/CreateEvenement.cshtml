@@ -1,0 +1,48 @@
+﻿@page
+@model Heron_Cendre.Pages.Heron_Model.Evenement.CreateEvenementModel
+@{
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/createPresta.css">
+    <title>CreateEvenement</title>
+</head>
+@if (Model.errorMesssage.Length > 0)
+{
+    <p class="text-danger">@Model.errorMesssage</p>
+}
+<form method="post">
+    <div class="row1">
+        <label for="theme">Theme Evenement </label>
+        <input type="Text" name="theme"></input>
+    </div>
+    <div class="row2">
+        <label for="debut">Debut Evenement </label>
+        <input type="date" name="debut" value=""></input>
+    </div>
+    <div class="row3">
+        <label for="fin" id="lbl1">Fin Evenement</label>
+        <input type="date" name="fin" value=""></input>
+    </div>
+    <div class="row4">
+        <label for="fin" id="lbl1">Tarif</label>
+        <input type="text" name="tarif"></input>
+    </div>
+    <div class="row4">
+        <label for="tarif">Photo prestation </label>
+        <input type="file" name="photo"></input>
+    </div>
+    <button type="submit">Envoyer</button>
+    @if (Model.successMessage.Length > 0)
+    {
+        <p class="text-success">@Model.successMessage</p>
+    }
+</form>
+<style>
+    form{
+        height:80%;
+    }
+</style>

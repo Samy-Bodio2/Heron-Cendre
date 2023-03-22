@@ -1,0 +1,87 @@
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.csproj.AssemblyReference.cache
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.AssemblyInfoInputs.cache
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.AssemblyInfo.cs
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.csproj.CoreCompileInputs.cache
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.RazorAssemblyInfo.cache
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.RazorAssemblyInfo.cs
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\appsettings.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Heron Cendre.staticwebassets.runtime.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Heron Cendre.exe
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Heron Cendre.deps.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Heron Cendre.runtimeconfig.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Heron Cendre.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Heron Cendre.pdb
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets\msbuild.Heron Cendre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets\msbuild.build.Heron Cendre.props
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Heron Cendre.props
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Heron Cendre.props
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\scopedcss\bundle\Heron Cendre.styles.css
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\scopedcss\projectbundle\Heron Cendre.bundle.scp.css
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.csproj.CopyComplete
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\refint\Heron Cendre.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.pdb
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.genruntimeconfig.cache
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\ref\Heron Cendre.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron_Cendre.Migrations.Initial.resources
+C:\Users\CLIENT\Desktop\Projet ASP\Heron Cendre\Heron Cendre\obj\Debug\net6.0\Heron Cendre.csproj.GenerateResource.cache

@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Heron_Cendre</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\banner-img.jpg" />
+    <Content Remove="wwwroot\css\image.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Heron Model\Prestation\UpdatePrestation.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Heron Model\Chambre\CreateChambre.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Heron Model\Prestation\UpdatePrestation.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\View\Prestation.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Heron Model\Chambre\CreateChambre.cshtml" />
+    <None Include="Pages\Heron Model\Prestation\UpdatePrestation.cshtml" />
+    <None Include="Pages\View\Prestation.cshtml" />
+    <None Include="wwwroot\css\banner-img.jpg" />
+    <None Include="wwwroot\css\image.jpg" />
+    <None Include="wwwroot\css\main.css" />
+    <None Include="wwwroot\Images\images %281%29.jfif" />
+    <None Include="wwwroot\Images\images %282%29.png" />
+    <None Include="wwwroot\Images\markus-spiske-g5ZIXjzRGds-unsplash.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Heron Model\Chambre\CreateChambre.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\View\Prestation.cshtml" />
+  </ItemGroup>
+
+</Project>

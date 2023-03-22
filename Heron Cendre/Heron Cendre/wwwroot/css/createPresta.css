@@ -1,0 +1,42 @@
+﻿body {
+}
+form {
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: -4px -4px inset;
+}
+
+label {
+    display: inline-block;
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+#pht {
+    border: 2px;
+    border-radius: 0;
+}
+
+input {
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#lbl1 {
+    padding-right: 25px;
+}
+
+div {
+    padding-bottom: 80px;
+}
+
+.row1 {
+    padding-top: 40px;
+}

@@ -1,0 +1,28 @@
+﻿@page
+@model Heron_Cendre.Pages.View.inscriptionModel
+@{
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Heron_Cendre</title>
+    <link rel="stylesheet" href="~/css/signCss.css" />
+</head>
+<body>
+	<form method="post">
+		<p id="titre">Heron Cendre</p>
+		<a id="a1">Inscription</a>
+		<a asp-page="Connexion" id="a2">J'ai deja un compte</a>
+		<hr id="hr1">
+		<hr id="hr2">
+		<p id="creez">Creez votre compte</p>
+		<input type="text" placeholder="Nom Complet" id="put" name="name">
+		<input type="text" placeholder="Email" name="email">
+		<input type="text" placeholder="Numero de telephone" name="phone">
+		<input type="text" placeholder="Login" name="log">
+		<input type="password" placeholder="Mot de passe" name="pwd">
+		<button>Continuer</button>
+	</form>
+	<div class="img"></div>
+</body>
+

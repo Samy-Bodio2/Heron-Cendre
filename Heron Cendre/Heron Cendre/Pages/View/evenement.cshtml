@@ -1,0 +1,66 @@
+﻿@page
+@model Heron_Cendre.Pages.View.evenementModel
+@{
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] evenement</title>
+    <link rel="stylesheet" href="~/css/evenCss.css" />
+</head>
+<nav class="navbar">
+    <ul>
+        <li><a asp-page="../Index">Accueil</a></li>
+        <li><a asp-page="propos">A Propos</a></li>
+        <li id="titre">Evènement</li>
+        <li><a asp-page="restaurant">Restaurant</a></li>
+        <li><a href="#">Prestation</a></li>
+    </ul>
+</nav>
+<div class="max">
+    @foreach(var even in Model.Events)
+    {
+        <div class="carte">
+            <img src='@even.photo_even' alt="evenement d'hotel"/>
+            <h3>@even.theme</h3>
+            <p>Date de debut:@even.date_debut_even <br/>
+                Date de fin:@even.fin_debut_even
+            </p>
+            <button>Reserver</button>
+        </div>
+    }
+</div>
+<div class="vil">@Model.test</div>
+
+<style>
+    .vil {
+        height: 30px;
+        width: 60px;
+        position: absolute;
+        top: 100px;
+        right: 115px;
+        border: 3px solid white;
+        border-radius: 20px;
+        text-align: center;
+    }
+    .max {
+        flex-wrap: wrap;
+        display: flex;
+        position: absolute;
+        top: 150px;
+    }
+
+    .carte {
+        height: 420px;
+        width: 350px;
+        text-align: center;
+        background-color: #f1f1f1;
+        border-radius: 10px;
+        margin: 20px;
+    }
+
+    img {
+        height: 250px;
+        width: 100%;
+    }
+</style>
